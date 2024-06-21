@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# FrontEnd-SlidelyAI
-=======
-# Slidely-Frontend
->>>>>>>
+
 >>>>>>> # Slidely-Frontend
 
 This is a Windows Desktop application built with Visual Basic in Visual Studio. The application allows users to create and view submissions, with features such as a stopwatch and keyboard shortcuts.
