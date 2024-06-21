@@ -1,0 +1,14 @@
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.vbproj.AssemblyReference.cache
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely_Frontend.CreateSubmissionForm.resources
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely_Frontend.Form1.resources
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely_Frontend.Resources.resources
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely_Frontend.ViewSubmissionsForm.resources
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.vbproj.GenerateResource.cache
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.vbproj.CoreCompileInputs.cache
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\bin\Debug\Slidely-Frontend.exe.config
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\bin\Debug\Slidely-Frontend.exe
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\bin\Debug\Slidely-Frontend.pdb
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\bin\Debug\Slidely-Frontend.xml
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.exe
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.xml
+C:\Users\ABHISHEK\source\repos\Slidely-Frontend\obj\Debug\Slidely-Frontend.pdb

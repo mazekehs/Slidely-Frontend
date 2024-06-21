@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|c:\\users\\abhishek\\source\\repos\\slidely-frontend\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:submission.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{8F885083-BB51-4AF7-A818-8395A44B7B19}|Slidely-Frontend.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:23:52.788Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Submission.vb",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Submission.vb",
+              "RelativeDocumentMoniker": "Submission.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Submission.vb",
+              "RelativeToolTip": "Submission.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T19:44:12.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:55:39.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:59:20.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T17:06:05.34Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T18:54:42.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSubmissionForm.vb",
+              "DocumentMoniker": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "C:\\Users\\ABHISHEK\\source\\repos\\Slidely-Frontend\\CreateSubmissionForm.vb",
+              "RelativeToolTip": "CreateSubmissionForm.vb",
+              "ViewState": "AQIAAEMAAAAAAAAAAAApwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-20T19:18:53.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
