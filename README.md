@@ -23,8 +23,8 @@ This is a Windows Desktop application built with Visual Basic in Visual Studio. 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/mazekehs/FrontEnd-SlidelyAI.git
-    cd FrontEnd-SlidelyAI
+    git clone https://github.com/mazekehs/Slidely-Frontend.git
+    cd Slidely-Frontend
     ```
 
 2. **Open the project in Visual Studio**:
